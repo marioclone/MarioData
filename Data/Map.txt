@@ -3101,21 +3101,22 @@ BackFenceMin3	Blank	384
 SceneryCastleOutside	SceneryFlagPole	8	80
 SceneryCastleOutside	SceneryFlagTop	7	82
 SceneryCastleOutside	Stone	4	8
-SceneryCastleOutside	SceneryBrickPlain	36	16	2	2
-SceneryCastleOutside	SceneryBrickPlain	60	16	2	2
-SceneryCastleOutside	SceneryCastleRailing	36	20	5	1
-SceneryCastleOutside	SceneryCastleRailing	44	36	3	1
-SceneryCastleOutside	SceneryCastleTop	44	32	1	4
-SceneryCastleOutside	SceneryCastleTop	48	32	1	1
-SceneryCastleOutside	SceneryCastleWindow	48	28
-SceneryCastleOutside	SceneryCastleTop	48	20	1	1
-SceneryCastleOutside	SceneryCastleTop	52	32	2	4
-SceneryCastleOutside	SceneryCastleTop	52	16	2	1
-SceneryCastleOutside	SceneryCastleDoor	52	12	1	1
-SceneryCastleOutside	SceneryCastleTop	60	32
-SceneryCastleOutside	SceneryCastleWindow	60	28
-SceneryCastleOutside	SceneryCastleTop	60	20
-SceneryCastleOutside	SceneryCastleTop	64	32		4
+SceneryCastleOutside	SceneryBrickPlain	36	20	2	2
+SceneryCastleOutside	SceneryBrickPlain	60	20	2	2
+SceneryCastleOutside	SceneryCastleRailing	36	24	5	1
+SceneryCastleOutside	SceneryCastleRailing	44	40	3	1
+SceneryCastleOutside	SceneryCastleTop	44	36	1	4
+SceneryCastleOutside	SceneryCastleTop	48	36	1	1
+SceneryCastleOutside	SceneryCastleWindow	48	32
+SceneryCastleOutside	SceneryCastleTop	48	24	1	1
+SceneryCastleOutside	SceneryCastleTop	52	36	2	4
+SceneryCastleOutside	SceneryCastleTop	52	20	2	1
+SceneryCastleOutside	SceneryCastleDoor	52	16	1	1
+SceneryCastleOutside	SceneryCastleTop	60	36
+SceneryCastleOutside	SceneryCastleWindow	60	32
+SceneryCastleOutside	SceneryCastleTop	60	24
+SceneryCastleOutside	SceneryCastleTop	64	36		4
+SceneryCastleOutside	SceneryCastleTop	36	4	10	1
 
 StartInsideCastle	Stone	0	48	3	8
 StartInsideCastle	Stone	24	40		7
